@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Dominic
 
-<!--
-**poopcoiner/poopcoiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer with a product mindset. I work mostly with **TypeScript, Next.js, Node.js, and PostgreSQL**, and I like building things that real people can actually use.
 
-Here are some ideas to get you started:
+I’ve shipped dashboards, Web3 tools, small AI integrations, internal platforms, and a handful of scrappy MVPs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools I use often
+Next.js · React · TypeScript · Node.js  
+PostgreSQL · Supabase · Docker · GitHub Actions  
+Jest / Vitest · Supertest · Cypress  
+Sui SDK · Figma handoff
+
+### What I’m into
+Clear UI, clean APIs, fast iteration, and solving small problems end-to-end.
+
+Pinned repos = things I’ve built, used, or learned from.
